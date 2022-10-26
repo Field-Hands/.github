@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197380091-26ce4b92-369a-4592-a692-e0f747021dea.png" height="35" width="35" align-items="center" justify-content="center" /> Field Hands
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+An instrument for tracking and recording insitu research for scientists with a need for mobility in thier lab environment. This includes cross-device platforms and the storing of data on a private blockchain.
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## Take your lab to go, keep your data private and enter it all on your PRIVATE blockchain.
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+🔬 Enter information from your lab into your blockcahin to access on the go.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🔭 All types of research from minimum to maximum scale, with built in metrics.
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🌿 Take your devices to the straight to the environment and minimize the amount of risk.
 
-🚩 Be the FIRST to get the latest and the greatest.
+🦗 Study the habit at the same time you study the creatures.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
